@@ -1,0 +1,13 @@
+{
+  "name": "campusconnect-database",
+  "version": "1.0.0",
+  "description": "CampusConnect seed script",
+  "main": "seed.js",
+  "scripts": {
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "neo4j-driver": "^5.21.0"
+  }
+}
