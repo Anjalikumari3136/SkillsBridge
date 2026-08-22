@@ -291,8 +291,5 @@ node seed.js
 
 > 🔗 Hosted application URL: _[Add after deployment]_
 
----
 
-## Screen Recording
 
-> 🎥 Recording URL: _[Add after recording]_
