@@ -2,7 +2,7 @@
 
 > A Student Mentorship & Skill Network powered by a graph database.
 
-![SkillsBridge Banner](screenshots/banner.png)
+[![SkillsBridge Banner](screenshots/banner.png)](screenshots/demo.mp4)
 
 ## Overview
 
@@ -289,7 +289,10 @@ node seed.js
 
 ## Demo
 
-> 🔗 Hosted application URL: _[Add after deployment]_
+> 🔗 Hosted application URL: https://skills-bridge-fawn.vercel.app/
+
+## 🎥 Demo
+[▶️ Watch SkillsBridge Demo](screenshots/demo.mp4)
 
 
 
